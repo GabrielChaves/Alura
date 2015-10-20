@@ -33,4 +33,16 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/WEB-INF/lib/all-themes-1.0.9.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Downloads/all-themes-1.0.9.jar</locationURI>
+		</link>
+		<link>
+			<name>WebContent/WEB-INF/lib/primefaces-5.3.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Downloads/primefaces-5.3.jar</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
